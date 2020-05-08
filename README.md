@@ -1,2 +1,4 @@
-# pages_zip
- Pages zip for a new GitHub Pages repo for the Campbell Muscle Lab
+# GitHub Pages Template
+ GitHub Pages Template for a new GitHub Pages repo for the Campbell Muscle Lab.
+
+Everything needed is in the `github_pages_template.zip` file. To link directly to this file for download on an external site, click the `github_pages_template.zip` file in the list on GitHub, right click the "View Raw" link in the middle of the page, then click "Copy link address" in the dialog box.
